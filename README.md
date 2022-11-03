@@ -5,9 +5,16 @@ It is a omage to Terry and the message that he spread to the world even if he go
 
 HolyTS implements many concepts of other popular projects but in a opinionated way that i identified as beeing the most Easy to learn teach and use without additional quirks a main reason why this exists is that it is to much overhead to use other solutions that exist as you need to learn all the quirks. In fact it implements the Stealify Lang but renamed to HolyTS as omage and it also adds Typescript like Implementation concepts maybe it will at some point be a drop in replacement for typescripts nodejs implementation. 
 
+## Supported Runtimes
+- [ ] @stealify/b8g (Big Engine)
+- [ ] NodeJS
+- [ ] JustJS
+- [ ] Partial<Cloudflare Workers> WinterCG Web
+
 
 ## Goals
 - Opinions / Observations / Assumptions.
+  - Learning Posix principels fundamentals is a must have and should be the entrance to coding at all learn ipc and pipes as also the process fork concepts
   - Learning Python
     - should be optional while is needed at present to convert existing tooling 
   - learning pearl 
